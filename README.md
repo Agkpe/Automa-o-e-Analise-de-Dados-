@@ -1,5 +1,5 @@
 # AUTOMAÇÃO E ANÁLISE DE DADOS 
-================================
+
 Este repositório reúne projetos desenvolvidos durante um intensivão de lives promovidaas pelo canal HASHTAG PROGRAMAÇÃO, com foco em **Python**, automação de processos e análises de dados
 
 ## OBJETIVO
