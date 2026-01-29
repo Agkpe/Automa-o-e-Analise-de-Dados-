@@ -7,10 +7,10 @@ Aplicar conceitos práticos de programação para resolver problemas reais, dese
 
 ## SOBRE O PROJETO
 O intensivão foi dividido em 4 aulas, cada uma com foco em uma área específica:
-     - Automação de tarefas com Python
-     - Análise e tratamento de dados
-     - Criação de relatórios e insights
-     - Chat Bot com aplicações de Inteligência Artificial
+-Automação de tarefas com Python
+- Análise e tratamento de dados
+-Criação de relatórios e insights
+-Chat Bot com aplicações de Inteligência Artificial
 
 Durante o processo, desenvolvi: 
    **3** projetos completos
